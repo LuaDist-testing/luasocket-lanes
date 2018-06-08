@@ -1,9 +1,17 @@
-package = "LuaSocket-Lanes"
+-- This file was automatically generated for the LuaDist project.
+
+package = "luasocket-lanes"
 version = "3.0-3"
+-- LuaDist source
 source = {
-   url = "https://github.com/djfdyuruiry/luasocket-lanes/archive/v3.0-3.zip",
-   dir = "luasocket-lanes-3.0-3",
+  tag = "3.0-3",
+  url = "git://github.com/LuaDist-testing/luasocket-lanes.git"
 }
+-- Original source
+-- source = {
+--    url = "https://github.com/djfdyuruiry/luasocket-lanes/archive/v3.0-3.zip",
+--    dir = "luasocket-lanes-3.0-3",
+-- }
 description = {
    summary = "Network support for the Lua language, now with Lua Lanes support!",
    detailed = [[
